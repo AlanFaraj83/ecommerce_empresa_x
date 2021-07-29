@@ -39,4 +39,8 @@ __Melhoria 1__, _melhoria 2_
 
 ## Links interessantes:
 
-[Google](https://www.google.com)
+[Tutorial HTML](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos)
+
+[Tutorial CSS](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)
+
+[Ttutorial JavaScript](https://www.hostinger.com.br/tutoriais/o-que-e-javascript)
