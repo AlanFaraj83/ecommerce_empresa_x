@@ -33,3 +33,6 @@ __Melhoria 1__, _melhoria 2_
 
 ![Logo do Pyton](img/PYTHON-400x280.png)
 ![Logo do Python2](img/python.png)
+
+#### Imagem externa
+![Logo do HTML CSS JAVASCRIPT](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.dreamstime.com%2Fillustration%2Fjavascript.html&psig=AOvVaw2IpU_SWPjzvlj8dR6cqSZU&ust=1627665691798000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCrtsPliPICFQAAAAAdAAAAABAK)
