@@ -47,7 +47,7 @@ __Melhoria 1__, _melhoria 2_
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
-[![Logo do PHP](https://pngimg.com/uploads/php/php_PNG39.png)]( https://github.com/AlanFaraj83)
+[![Logo do PHP](https://pngimg.com/uploads/php/php_PNG39.png)]( https://www.hostinger.com.br/tutoriais/o-que-e-php-guia-basico)
 
 Contribuidor principal: https://github.com/AlanFaraj83 
 
