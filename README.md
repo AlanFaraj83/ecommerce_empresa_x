@@ -36,3 +36,7 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem externa
 ![Logo do HTML CSS JAVASCRIPT](https://thumbs.dreamstime.com/b/grupo-do-%C3%ADcone-de-html-css-js-logotipo-desenvolvimento-da-web-e-javascript-s%C3%ADmbolo-programa%C3%A7%C3%A3o-154897294.jpg)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
