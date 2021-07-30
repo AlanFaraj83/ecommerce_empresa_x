@@ -51,4 +51,16 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://github.com/AlanFaraj83 
 
+## código da função soma
+
+```javascript
+function soma(a,b) {
+  return a+b;
+}
+
+var x = soma (5,6);
+console.log(x);
+
+```
+
 
