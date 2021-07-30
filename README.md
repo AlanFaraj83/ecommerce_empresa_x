@@ -51,7 +51,7 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://github.com/AlanFaraj83 
 
-## código da função soma
+## código da função soma:
 
 ```javascript
 function soma(a,b) {
@@ -62,5 +62,10 @@ var x = soma (5,6);
 console.log(x);
 
 ```
+## Lista de tarefas a fazer:
 
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [ x ] CSS do rodapé
 
